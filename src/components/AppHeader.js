@@ -3,8 +3,7 @@ import React from 'react';
 function AppHeader() {
 
     return <div>
-        <p className="p-3 text-light h3 bg-primary">Current weather by zip code</p>
+        <p className="p-3 text-light h3 bg-primary">Current weather by pin code</p>
     </div>
 }
-  
-export default AppHeader
+  export default AppHeader
